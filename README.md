@@ -1,2 +1,3 @@
 # Sam
 Resolution for 2024 is to understand and master web.dev; front-end; back-end. Understand and master minimal programming languages, JavaScript, Java and Python including particular frameworks.
+3. Secondary duty, studying everything related to cyber-security.
